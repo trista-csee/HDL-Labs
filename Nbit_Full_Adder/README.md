@@ -5,7 +5,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT Name -->
-<h1 align="center">Designing a full adder with parameterizable bits</h1>
+<h1 align="center">Design a full adder with parameterizable bits</h1>
 
 <a name="Schmatic"></a>
 <!-- Schmatic -->
