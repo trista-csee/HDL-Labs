@@ -10,7 +10,7 @@
 <a name="Schmatic"></a>
 <!-- Schmatic -->
 ## Schmatic
-![image](https://github.com/trista-csee/HDL-Labs/tree/main/Nbit_Full_Adder/Schmatic.png)
+![image](https://github.com/trista-csee/HDL-Labs/blob/main/Nbit_Full_Adder/Schmatic.png)
 
 <!-- LICENSE -->
 ## License
