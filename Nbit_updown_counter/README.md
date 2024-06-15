@@ -5,7 +5,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
-<h1 align="center">Designing an updown counter with parameterizable width</h1>
+<h1 align="center">Design an updown counter with parameterizable width</h1>
 
 <a name="Schmatic"></a>
 <!-- Schmatic -->
