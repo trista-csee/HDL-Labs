@@ -11,14 +11,14 @@
 <!-- Schmatic -->
 ## Schmatic_nonblocking
 * pipeline design - use nonblocking
-![image](https://github.com/trista-csee/HDL-Labs/tree/main/pipeline_nonblocking_blocking/Schmatic_nonblocking.png)
+![image](https://github.com/trista-csee/HDL-Labs/blob/main/pipeline_nonblocking_blocking/Schmatic_nonblocking.png)
 
 ## Schmatic_blocking
-![image](https://github.com/trista-csee/HDL-Labs/tree/main/pipeline_nonblocking_blocking/Schmatic_blocking.png)
+![image](https://github.com/trista-csee/HDL-Labs/blob/main/pipeline_nonblocking_blocking/Schmatic_blocking.png)
 
 <!-- Simulation -->
 ## Simulation
-![image](https://github.com/trista-csee/HDL-Labs/tree/main/pipeline_nonblocking_blocking/Simulation.png)
+![image](https://github.com/trista-csee/HDL-Labs/blob/main/pipeline_nonblocking_blocking/Simulation.png)
 
 <!-- LICENSE -->
 ## License
