@@ -11,17 +11,17 @@
 <!-- Schmatic -->
 ## Schmatic_task
 * pipeline design - use nonblocking
-![image](https://github.com/trista-csee/HDL-Labs/blob/main/pipeline_nonblocking_blocking/Schmatic_nonblocking.png)
+![image](https://github.com/trista-csee/HDL-Labs/blob/main/computation_task_function/Schmatic_task.png)
 
 ## Schmatic_function
-![image](https://github.com/trista-csee/HDL-Labs/blob/main/pipeline_nonblocking_blocking/Schmatic_blocking.png)
+![image](https://github.com/trista-csee/HDL-Labs/blob/main/computation_task_function/Schmatic_function.png)
 
 <!-- Simulation -->
 ## Simulation_task
-![image](https://github.com/trista-csee/HDL-Labs/blob/main/pipeline_nonblocking_blocking/Simulation.png)
+![image]([https://github.com/trista-csee/HDL-Labs/blob/main/pipeline_nonblocking_blocking/Simulation.png](https://github.com/trista-csee/HDL-Labs/blob/main/computation_task_function/Simulation_task.png))
 
 ## Simulation_function
-![image](https://github.com/trista-csee/HDL-Labs/blob/main/pipeline_nonblocking_blocking/Simulation.png)
+![image]([https://github.com/trista-csee/HDL-Labs/blob/main/pipeline_nonblocking_blocking/Simulation.png](https://github.com/trista-csee/HDL-Labs/blob/main/computation_task_function/Simulation_function.png))
 
 <!-- LICENSE -->
 ## License
@@ -36,7 +36,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 吳華楨 Trista Wu - trista.cs11@nycu.edu.tw
 
-Project Link: [https://github.com/trista-csee/HDL-Labs/tree/main/pipeline_nonblocking_blocking](https://github.com/trista-csee/HDL-Labs/tree/main/pipeline_nonblocking_blocking)
+Project Link: [https://github.com/trista-csee/HDL-Labs/tree/main/computation_task_function](https://github.com/trista-csee/HDL-Labs/tree/main/computation_task_function)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
