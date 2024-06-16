@@ -10,7 +10,6 @@
 <a name="Schmatic"></a>
 <!-- Schmatic -->
 ## Schmatic_task
-* pipeline design - use nonblocking
 ![image](https://github.com/trista-csee/HDL-Labs/blob/main/computation_task_function/Schmatic_task.png)
 
 ## Schmatic_function
@@ -18,10 +17,10 @@
 
 <!-- Simulation -->
 ## Simulation_task
-![image]([https://github.com/trista-csee/HDL-Labs/blob/main/pipeline_nonblocking_blocking/Simulation.png](https://github.com/trista-csee/HDL-Labs/blob/main/computation_task_function/Simulation_task.png))
+![image](https://github.com/trista-csee/HDL-Labs/blob/main/computation_task_function/Simulation_task.png)
 
 ## Simulation_function
-![image]([https://github.com/trista-csee/HDL-Labs/blob/main/pipeline_nonblocking_blocking/Simulation.png](https://github.com/trista-csee/HDL-Labs/blob/main/computation_task_function/Simulation_function.png))
+![image](https://github.com/trista-csee/HDL-Labs/blob/main/computation_task_function/Simulation_function.png)
 
 <!-- LICENSE -->
 ## License
