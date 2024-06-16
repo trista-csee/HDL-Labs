@@ -4,7 +4,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT Name -->
 <h1 align="center">pipeline design - use nonblocking instead of blocking</h1>
 
 <a name="Schmatic"></a>
