@@ -4,7 +4,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT Name -->
 <h1 align="center">Design an updown counter with parameterizable width</h1>
 
 <a name="Schmatic"></a>
