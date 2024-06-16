@@ -12,6 +12,10 @@
 ## Schmatic
 ![image](https://github.com/trista-csee/HDL-Labs/blob/main/Nbit_Full_Adder/Schmatic.png)
 
+<!-- Simulation -->
+## Simulation
+![image](https://github.com/trista-csee/HDL-Labs/blob/main/Nbit_Full_Adder/Simulation.png)
+
 <!-- LICENSE -->
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
