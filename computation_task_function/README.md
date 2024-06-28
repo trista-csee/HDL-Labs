@@ -7,12 +7,12 @@
 <!-- PROJECT Name -->
 <h1 align="center">Call computation task or function multiple times through data input and output</h1>
 
-<a name="Schmatic"></a>
-<!-- Schmatic -->
-## Schmatic_task
+<a name="Schematic"></a>
+<!-- Schematic -->
+## Schematic_task
 ![image](https://github.com/trista-csee/HDL-Labs/blob/main/computation_task_function/Schmatic_task.png)
 
-## Schmatic_function
+## Schematic_function
 ![image](https://github.com/trista-csee/HDL-Labs/blob/main/computation_task_function/Schmatic_function.png)
 
 <!-- Simulation -->
