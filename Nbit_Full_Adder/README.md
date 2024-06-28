@@ -7,9 +7,9 @@
 <!-- PROJECT Name -->
 <h1 align="center">Design a full adder with parameterizable bits</h1>
 
-<a name="Schmatic"></a>
-<!-- Schmatic -->
-## Schmatic
+<a name="Schematic"></a>
+<!-- Schematic -->
+## Schematic
 ![image](https://github.com/trista-csee/HDL-Labs/blob/main/Nbit_Full_Adder/Schmatic.png)
 
 <!-- Simulation -->
