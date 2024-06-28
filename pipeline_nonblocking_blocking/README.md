@@ -7,13 +7,13 @@
 <!-- PROJECT Name -->
 <h1 align="center">pipeline design - use nonblocking instead of blocking</h1>
 
-<a name="Schmatic"></a>
-<!-- Schmatic -->
-## Schmatic_nonblocking
+<a name="Schematic"></a>
+<!-- Schematic -->
+## Schematic_nonblocking
 * pipeline design - use nonblocking
 ![image](https://github.com/trista-csee/HDL-Labs/blob/main/pipeline_nonblocking_blocking/Schmatic_nonblocking.png)
 
-## Schmatic_blocking
+## Schematic_blocking
 ![image](https://github.com/trista-csee/HDL-Labs/blob/main/pipeline_nonblocking_blocking/Schmatic_blocking.png)
 
 <!-- Simulation -->
