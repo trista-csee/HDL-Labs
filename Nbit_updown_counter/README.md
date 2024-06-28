@@ -7,9 +7,9 @@
 <!-- PROJECT Name -->
 <h1 align="center">Design an updown counter with parameterizable width</h1>
 
-<a name="Schmatic"></a>
-<!-- Schmatic -->
-## Schmatic
+<a name="Schematic"></a>
+<!-- Schematic -->
+## Schematic
 ![image](https://github.com/trista-csee/HDL-Labs/blob/main/Nbit_updown_counter/Schmatic.png)
 
 <!-- Simulation -->
